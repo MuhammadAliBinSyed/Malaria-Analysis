@@ -1,0 +1,1 @@
+Please download the folder: 2018-11-13 and open the Malaria Analysis.ipnyb
